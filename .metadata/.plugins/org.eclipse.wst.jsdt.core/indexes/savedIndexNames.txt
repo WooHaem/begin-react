@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\RAIN\begin-react\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1704979481.index
+4010141460.index
+756438284.index
+1594960178.index
+898137349.index
+1820708901.index
