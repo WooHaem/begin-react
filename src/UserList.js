@@ -30,7 +30,7 @@ function UserList() {
     return (
         <div>
             {users.map(user => (
-                <User user={user} key={user.id} />    
+                <User user={user} key={user.id} /* 또는 key={index} */ />    
             ))}
         </div>
     );
